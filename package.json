@@ -1,0 +1,56 @@
+{
+  "_from": "zhuge-log",
+  "_id": "zhuge-log@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-nJdVZP7mzXlEwXzlrrx+I12mo3eqFU3g+hruq4BM7r2Cl+HMDleuhVJdJCO1RcQK6YqB4mpdkx+i9osEeJxFtA==",
+  "_location": "/zhuge-log",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "zhuge-log",
+    "name": "zhuge-log",
+    "escapedName": "zhuge-log",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/zhuge-log/-/zhuge-log-1.0.1.tgz",
+  "_shasum": "4bb3708642ddef5064322b2ee688497e8d23b066",
+  "_spec": "zhuge-log",
+  "_where": "/Users/senlyn/Documents/self/wiicache",
+  "author": {
+    "name": "zhuge"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "moment": "^2.22.2",
+    "nodemailer": "^4.6.8",
+    "winston": "^3.1.0",
+    "winston-daily-rotate-file": "^3.5.1"
+  },
+  "deprecated": false,
+  "description": "log",
+  "engines": {
+    "node": ">6.0.0"
+  },
+  "keywords": [
+    "log"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "zhuge-log",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git@git.zhugefang.com:frontend/zhuge-log.git"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "version": "1.0.1"
+}
